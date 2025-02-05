@@ -1,0 +1,4 @@
+Coin Change (the special case), Load Balancing, and Interval Covering.
+For these classical problems, it is helpful to memorize their solutions.
+We have also discussed an important problem solving strategy usually applicable to greedy problems:
+Sorting the input data to elucidate hidden greedy strategies
